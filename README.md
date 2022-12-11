@@ -3,7 +3,7 @@
 Signed Social networks can be seen as a special case of Social networks, that maps each link with a sign. A link can be positive (+, 1, +1 etc) and that
 represent that two nodes are friends, on the other hand a negative link (-, -1 etc) represents that the two connected nodes are foes. 
 
-All of the code is written in Serbian so it can be tricky for non-speakers, the plan is to translate and make it more readable in the future.
+All of the code is written using Serbian for naming methods, variables etc. so it can be tricky for non-speakers, the plan is to translate and make it more readable in the future.
 
 ## About the functionality
 In this project, written for an intro in Social networks course at the Faculty of Sciences, Novi Sad, Serbia, the main function that can be seen in 
