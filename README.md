@@ -13,7 +13,7 @@ In this project, written for an intro in Social networks course at the Faculty o
 ## Testing
 
 Testing was done in two parts. First part hand written test were tested in <b>testiranje.py</b>. The test cases can be seen in the file <b>res/testovi</b>.
-Second part of the testing was done over large random generated tests in <b>testiranje_random_mreze.py</b>. With the method <b>__oznaceni_Erdos_Renji</b>, I modified the classic ER Model for signed networks. All tests were passed.
+Second part of the testing was done over large random generated tests in <b>testiranje_random_mreze.py</b>. With the method <b>__oznaceni_Erdos_Renji</b>, I modified the classic <a href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model">ER Model</a> for signed networks. All tests were passed.
 
 
 ## Analysis of real world networks
